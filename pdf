@@ -1,1 +1,28 @@
+Proiect c++ Oferte Zboruri
+
+-este interactiv
+-multi threading
+ 
+
+Partea lui Presneanu Andrei:
+USER: 
+
+-poate vedea ofertele puse de admin
+-poate selecta din ofertele puse din admin pentru a le pune in cos
+-poate sterge oferta din cos
+-poate finaliza comanda
++
+partea de sincronizare:
+
+in aplicatie poate scrie doar o persoana pe rand
+
+
+
+Partea lui Plesea Mihai :
+
+ADMIN:
+
+-poate adauga oferte de zbor intr-o lista cu oferte 
+-poate vizualiza lista de oferte
+-poate sterge o oferta din lista
 
